@@ -1,7 +1,7 @@
 # ML-Linear-Regression-Boston-Housing-price-prediction
-#This project was done as part of Online course : MACHINE LEARNING using python
+#This project was done as part of Online course : <b>MACHINE LEARNING using python</b>
 
-Certificate of Completion from SKYFI LABS: <a href="https://drive.google.com/file/d/1XLKQhn3yIZACiKbnzLPAIN5S9MZnKSMt/view?usp=sharing"> My Certificate </a>
+Certificate of Completion from <b>SKYFI LABS</b>: <a href="https://drive.google.com/file/d/1XLKQhn3yIZACiKbnzLPAIN5S9MZnKSMt/view?usp=sharing"> My Certificate </a>
 (They checked and verified the output only after they published the certificate.)
 
 Here is the link for the Evaluated Project:
